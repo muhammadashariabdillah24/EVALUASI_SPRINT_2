@@ -12,3 +12,4 @@ function hitungLuasPersegiPanjang(panjang,lebar){
 }
 
 hitungLuasPersegiPanjang(15,5)
+
