@@ -3,6 +3,10 @@ function hitungLuasPersegiPanjang(panjang,lebar){
     Lebar = lebar
 
     document.write(
+        'Panjang : ',  Panjang + '<br>',
+        'Lebar : ', Lebar + '<br><br>'
+    )
+    document.write(
         'Luas Persegi Panjang : ', Panjang * Lebar
     );
 }
