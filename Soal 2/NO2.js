@@ -2,6 +2,6 @@ const listDesa = ['argodadi,sedayu','argomulyo,sedayu','argorejo,sedayu','argosa
 
 for (let i = 0; i < listDesa.length; i++) {
     console.log(
-       i + 1 + ' ' + listDesa[i]
+       i + 1 + '.' + listDesa[i]
     );
 }

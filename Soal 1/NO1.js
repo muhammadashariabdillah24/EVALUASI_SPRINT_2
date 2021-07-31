@@ -4,6 +4,8 @@ for (let i = 0; i < nilaiSantri.length; i++) {
     total += nilaiSantri.length
 }
 
+console.log('Total Nilai : ', total);
+
 let hasil = total / nilaiSantri.length
 
-console.log(hasil);
+console.log('Hasil Rata - Rata : ', hasil);

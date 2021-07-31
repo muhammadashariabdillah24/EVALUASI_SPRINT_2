@@ -2,7 +2,7 @@ function hitungLuasPersegiPanjang(panjang,lebar){
     Panjang = panjang
     Lebar = lebar
 
-    console.log(
+    document.write(
         'Luas Persegi Panjang : ', Panjang * Lebar
     );
 }
